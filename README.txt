@@ -33,30 +33,6 @@ Code Canvas is a platform dedicated to sharing knowledge and updates in the fiel
 - **[Backend Technology, e.g., Node.js, Django]**
 - **[Database, e.g., MongoDB, PostgreSQL]**
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/code-canvas.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd code-canvas
-   ```
-3. Install dependencies (if applicable):
-   ```sh
-   npm install
-   ```
-
-## Usage
-
-To start the development server, run:
-```sh
-npm start
-```
-Open your browser and go to `http://localhost:3000` to view the website.
 
 ## Contributing
 
