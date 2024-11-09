@@ -57,6 +57,14 @@
 		border-spacing: 0;
 	}
 
+	img {
+ 
+		width: 50px;
+		 
+		height: 40px;
+		 
+	}
+
 	body {
 		-webkit-text-size-adjust: none;
 	}
