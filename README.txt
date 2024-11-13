@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **CodeCanvas**! This repository is your go-to resource for creating, sharing, and collaborating on code snippets and projects. Whether you're a seasoned developer or just starting out, CodeCanvas provides a platform to showcase your coding skills and learn from others in the community.
+Welcome to CodeCanvas This repository is your go-to resource for creating, sharing, and collaborating on code snippets and projects. Whether you're a seasoned developer or just starting out, CodeCanvas provides a platform to showcase your coding skills and learn from others in the community.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
    python create_snippet.py --title "My Snippet" --language "Python" --code "print('Hello, World!')"
    ```
 
-2. **View Snippets:**
+2. 
    ```bash
    python view_snippets.py
    ```
